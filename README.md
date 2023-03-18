@@ -18,7 +18,7 @@ pip install jupyterlab
 
 ```sh
 python -m venv .venv
-. .venv/bin/actiavte
+. .venv/bin/activate
 pip install jupyterlab
 ```
 
